@@ -22,7 +22,7 @@ http://www.jwz.org/doc/threading.html.
 
 %description -l pl
 Implementacja szybkiego i sprawnego algorytmu w±tkowania poczty,
-opisana przez Jamie Zawinski na stronie
+opisana przez Jamie Zawinskiego na stronie
 http://www.jwz.org/doc/threading.html.
 
 %prep

@@ -3,7 +3,7 @@ Summary:	Implementation of algorithm for threading mail messages
 Summary(pl):	Implementacja algorytmu w±tkowania wiadomo¶ci pocztowych
 Name:		python-%{module}
 Version:	0.91
-Release:	1
+Release:	2
 License:	BSD-like (see LICENSE)
 Group:		Libraries/Python
 Source0:	http://www.amk.ca/files/python/%{module}-%{version}.tar.gz

@@ -18,12 +18,12 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This is an implementation of a fast and smart algorithm for threading
 mail messages, as described by Jamie Zawinski at
-http://www.jwz.org/doc/threading.html.
+http://www.jwz.org/doc/threading.html .
 
 %description -l pl
 Implementacja szybkiego i sprawnego algorytmu w±tkowania poczty,
 opisana przez Jamie Zawinskiego na stronie
-http://www.jwz.org/doc/threading.html.
+http://www.jwz.org/doc/threading.html .
 
 %prep
 %setup -q -n %{module}-%{version}

@@ -11,6 +11,7 @@ Source0:	http://www.amk.ca/files/python/%{module}-%{version}.tar.gz
 URL:		http://www.amk.ca/python/code/jwz.html
 %pyrequires_eq	python
 BuildRequires:	python-devel >= 1:2.3
+BuildRequires:	python-modules
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 

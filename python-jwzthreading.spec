@@ -1,6 +1,6 @@
 %define		module	jwzthreading
 Summary:	Implementation of algorithm for threading mail messages
-Summary(pl):	Implementacja algorytmu w±tkowania wiadomo¶ci pocztowych
+Summary(pl.UTF-8):   Implementacja algorytmu wÄ…tkowania wiadomoÅ›ci pocztowych
 Name:		python-%{module}
 Version:	0.91
 Release:	2
@@ -20,8 +20,8 @@ This is an implementation of a fast and smart algorithm for threading
 mail messages, as described by Jamie Zawinski at
 http://www.jwz.org/doc/threading.html .
 
-%description -l pl
-Implementacja szybkiego i sprawnego algorytmu w±tkowania poczty,
+%description -l pl.UTF-8
+Implementacja szybkiego i sprawnego algorytmu wÄ…tkowania poczty,
 opisana przez Jamie Zawinskiego na stronie
 http://www.jwz.org/doc/threading.html .
 

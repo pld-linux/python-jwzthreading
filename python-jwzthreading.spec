@@ -1,6 +1,6 @@
 %define		module	jwzthreading
 Summary:	Implementation of algorithm for threading mail messages
-Summary(pl.UTF-8):   Implementacja algorytmu wątkowania wiadomości pocztowych
+Summary(pl.UTF-8):	Implementacja algorytmu wątkowania wiadomości pocztowych
 Name:		python-%{module}
 Version:	0.91
 Release:	2

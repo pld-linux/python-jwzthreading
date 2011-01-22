@@ -12,6 +12,7 @@ URL:		http://www.amk.ca/python/code/jwz.html
 %pyrequires_eq	python
 BuildRequires:	python-devel >= 1:2.3
 BuildRequires:	python-modules
+BuildRequires:	rpm-pythonprov
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 

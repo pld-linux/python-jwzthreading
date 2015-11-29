@@ -9,6 +9,7 @@ Group:		Libraries/Python
 Source0:	http://www.amk.ca/files/python/%{module}-%{version}.tar.gz
 # Source0-md5:	567f17b0189d90f570961b8f5d487795
 URL:		http://www.amk.ca/python/code/jwz.html
+BuildRequires:	rpmbuild(macros) >= 1.710
 %pyrequires_eq	python
 BuildRequires:	python-devel >= 1:2.3
 BuildRequires:	python-modules
